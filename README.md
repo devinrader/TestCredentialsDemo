@@ -1,4 +1,4 @@
-Twilio Quiz Show
+Test Credentials Demo
 ==============
 
 The Test Credentials Demo is a sample that demostrates how to build automated integration tests using Twilio [Test Credentials](http://www.twilio.com/docs/api/rest/test-credentials) and Visual Studio 2012.
